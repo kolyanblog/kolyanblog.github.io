@@ -15,3 +15,17 @@ github_username:  kolyanblog.github.io
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+  - "jekyll-minifier"
+
+plugins: 
+  - jekyll-minifier
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
