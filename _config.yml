@@ -10,7 +10,7 @@ title: Мой личный блок об онлайн зароботке в ка
 email: helper@monclercoats.org
 description:  Я играл каждый день и с остервенением высасывал из местных персонажей мелкие доллары. Кто играл в «Метле», знает тамошний контингент и понимает, что сидение там особого удовольствие не доставляет, но я довольно стабильно делал по 300$ в день в течение месяца. Происходило это легко, конечно, игра довольно нервная, есть много переездов, но в целом очень доходная. Рассказываю об личном опыте, как играть в онлайн казино в плюс, как обыграть ребят в покере или блэкджек 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://monclercoats.org/" # the base hostname & protocol for your site
+url: "http://monclercoats.org" # the base hostname & protocol for your site
 github_username:  kolyanblog.github.io
 
 # Build settings
